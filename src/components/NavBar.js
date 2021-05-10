@@ -39,21 +39,21 @@ export default function NavBar() {
         </nav>
         <div className="inline-flex py-3 px-3 my-6">
           <SocialIcon
-            url="https://twitter.com/kapehe_ok"
+            url="https://twitter.com/damianus_noris"
             className="mr-4"
             target="_blank"
             fgColor="#fff"
             style={{ height: 35, width: 35 }}
           />
           <SocialIcon
-            url="https://youtube.com/c/kapehe"
+            url="https://www.youtube.com/channel/UCY_fEl8R5EkxqPUX8tKqKIw"
             className="mr-4"
             target="_blank"
             fgColor="#fff"
             style={{ height: 35, width: 35 }}
           />
           <SocialIcon
-            url="https://linkedin.com/in/kapehe"
+            url="https://www.linkedin.com/in/norris-damianus-a6a12637/git"
             className="mr-4"
             target="_blank"
             fgColor="#fff"
